@@ -3,7 +3,7 @@ Desenvolvimento colaborativo do site do projeto acadêmico.
 
 ## 1. Objetivo e contexto
 
-Este documento reúne as definições principais de planejamento e experiência do usuário para a plataforma de gestão e emissão de Notas Fiscais de Serviço (NFSe). A proposta é centralizar cadastros, emissão e consulta de notas em uma aplicação web responsiva, reduzindo o uso de planilhas e tarefas manuais. O público-alvo são gerentes administrativos/financeiros e proprietários de pequenos negócios.
+Este documento reúne as definições principais de planejamento e experiência do usuário para a plataforma de gestão e emissão de Notas Fiscais de Serviço (NFSe). A proposta é centralizar cadastros, emissão e consulta de notas em uma aplicação web responsiva, reduzindo o uso de planilhas e tarefas manuais. O público-alvo são gerentes administrativos, financeiros e proprietários de pequenos negócios.
 
 ## 2. Principais dores dos usuários
 
@@ -154,7 +154,7 @@ Hospedagem da aplicação. O projeto está publicado no GitHub Pages, que atua c
 Como evolução do projeto, estão previstas melhorias na infraestrutura de armazenamento, integração com serviços externos de autorização fiscal e expansão dos recursos de gerenciamento e segurança dos dados.
 
 
-## 15. Vídeo de Demonstração
+## 15. Vídeo de Demonstração 
 
 [Assistir ao vídeo de demonstração da aplicação](https://youtu.be/VB7mLsBXKKU)
 
