@@ -45,6 +45,41 @@ O protótipo foi desenvolvido no Figma para representar visualmente a aplicaçã
 
 **Acesso ao protótipo:** [Visualizar no Figma](https://www.figma.com/proto/xz5Tmdl1CTy0wQpDpvcKBP/NF---Prot%C3%B3tipo?node-id=3-15277&t=QLNieyNep3wvQmIt-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/5b370401-b165-4164-85f9-6d26988117d9" alt="Tela de Login" width="180px"/><br/>
+        <sub><b>Login</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/d45d8aa7-1f93-48e3-be33-363ddf3a6590" alt="Tela de Cadastro" width="180px"/><br/>
+        <sub><b>Cadastro</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/2731b323-bfbf-4fe0-a079-6ee7d109ef43" alt="Tela de Visão Geral" width="180px"/><br/>
+        <sub><b>Visão geral</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/79228559-2549-419d-813d-829677c9cfe0" alt="Tela de Emitir NFS-e" width="180px"/><br/>
+        <sub><b>Emitir NFS-e</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/1f8c642f-f19f-4284-8c5c-6d1422b1fe9c" alt="Tela de Histórico de Notas" width="180px"/><br/>
+        <sub><b>Histórico de notas</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/285d7a3c-1d9f-4cf2-bbfb-1198af33f483" alt="Tela de Configurações" width="180px"/><br/>
+        <sub><b>Configurações</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
 ## 8. Tecnologias e ferramentas utilizadas
 
 | Tecnologia/Ferramenta | Utilização |
