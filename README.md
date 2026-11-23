@@ -37,14 +37,6 @@ As principais áreas previstas são: Login; Dashboard; Notas Fiscais; Nova Nota 
 
 Os wireframes foram desenvolvidos no Figma para representar a estrutura e a organização das principais telas da aplicação, servindo como base para a definição da interface. O projeto considera uma interface simples, intuitiva e responsiva, com padronização dos elementos visuais e facilidade de navegação.
 
-**Acesso ao wireframes:** [Visualizar no Figma](https://www.figma.com/proto/Z1F2KVItdTjDWApU98bfyq/NF---ADM---PI?node-id=3-15277&t=mKZM1Z97of7UQ5dT-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
-
-## 7. Protótipo e fluxo de navegação
-
-O protótipo foi desenvolvido no Figma para representar visualmente a aplicação e demonstrar a navegação entre suas principais funcionalidades. O fluxo contempla o acesso à plataforma, o cadastro e a consulta de notas fiscais.
-
-**Acesso ao protótipo:** [Visualizar no Figma](https://www.figma.com/proto/xz5Tmdl1CTy0wQpDpvcKBP/NF---Prot%C3%B3tipo?node-id=3-15277&t=QLNieyNep3wvQmIt-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
-
 <p align="center">
   <table>
     <tr>
@@ -78,7 +70,13 @@ O protótipo foi desenvolvido no Figma para representar visualmente a aplicaçã
   </table>
 </p>
 
+**Acesso ao wireframes:** [Visualizar no Figma](https://www.figma.com/proto/Z1F2KVItdTjDWApU98bfyq/NF---ADM---PI?node-id=3-15277&t=mKZM1Z97of7UQ5dT-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
+## 7. Protótipo e fluxo de navegação
+
+O protótipo foi desenvolvido no Figma para representar visualmente a aplicação e demonstrar a navegação entre suas principais funcionalidades. O fluxo contempla o acesso à plataforma, o cadastro e a consulta de notas fiscais.
+
+**Acesso ao protótipo:** [Visualizar no Figma](https://www.figma.com/proto/xz5Tmdl1CTy0wQpDpvcKBP/NF---Prot%C3%B3tipo?node-id=3-15277&t=QLNieyNep3wvQmIt-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ## 8. Tecnologias e ferramentas utilizadas
 
